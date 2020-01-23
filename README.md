@@ -1,2 +1,2 @@
-# fz-familytree-ui
+# fz-familytree
 Visual Project of a Personal Family Tree
